@@ -32,9 +32,8 @@ This repository contains an end-to-end data science project focused on analyzing
 
 ## Repository Structure
 
-- **`notebook.ipynb`**: The main Jupyter/Google Colab notebook that walks through the data processing, modeling, and analysis pipeline.
-- **`final_dataset.csv`**: The cleaned and processed dataset generated at the end of the workflow.
-- **`README.md`**: This file, providing an overview of the project.
+- **`CXC - ChabaCrunch.zip`**: A compressed file containing the main analysis notebook (`notebook.ipynb`) and any related code.
+- **`README.md`**: A detailed overview of the project, objectives, methodology, and key findings.
 
 ## Technologies Used
 
